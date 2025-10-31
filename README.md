@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on Building an E-Commerce & Friends Website.<br>to collaborate on Open-Source Projects and React based projects.<br>improving my Backend skills,particullarly with the new emerging technologies.<br>Advanced React patterns, REST APIs, and exploring the MERN stack (MongoDB, Express.js, React, Node.js).<br>Frontend development, React, creating responsive UIs with HTML and CSS, or any Python-related projects.<br>I love exploring new technologies and often spend my free time building small apps to learn different aspects of web development!
+Working on Building an Maintainnace System Web App.<br>to collaborate on Open-Source Projects and React based projects.<br>improving my Backend skills,particullarly with the new emerging technologies.<br>Advanced React patterns, REST APIs, and exploring the MERN stack (MongoDB, Express.js, React, Node.js).<br>Frontend development, React, creating responsive UIs with HTML and CSS, or any Python-related projects.<br>I love exploring new technologies and often spend my free time building small apps to learn different aspects of web development!
 
 
 ## 🌐 Socials:
